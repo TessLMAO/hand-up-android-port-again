@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gef.png"><SubTexture name="gef right0000" x="1338" y="1746" width="446" height="425" frameX="-28" frameY="-58" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef right0001" x="446" y="1746" width="446" height="425" frameX="-28" frameY="-58" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef right0002" x="1338" y="863" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef right0003" x="0" y="1315" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef right0004" x="0" y="884" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef right0005" x="446" y="884" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef left0000" x="446" y="445" width="446" height="437" frameX="-28" frameY="-46" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef left0001" x="446" y="0" width="446" height="444" frameX="-28" frameY="-39" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef left0002" x="0" y="0" width="446" height="445" frameX="-28" frameY="-38" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef left0003" x="0" y="445" width="446" height="439" frameX="-28" frameY="-44" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef left0004" x="892" y="0" width="446" height="436" frameX="-28" frameY="-47" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef left0005" x="892" y="436" width="446" height="436" frameX="-28" frameY="-47" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef wink0000" x="1784" y="1746" width="446" height="425" frameX="-28" frameY="-58" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef wink0001" x="892" y="1746" width="446" height="425" frameX="-28" frameY="-58" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef wink0002" x="446" y="1315" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef wink0003" x="892" y="1315" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef wink0004" x="0" y="884" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef wink0005" x="0" y="884" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef wink0006" x="446" y="884" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0000" x="892" y="884" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0001" x="1338" y="0" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0002" x="1338" y="0" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0003" x="1338" y="0" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0004" x="1338" y="431" width="446" height="431" frameX="-28" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0005" x="1338" y="1315" width="446" height="429" frameX="-28" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0006" x="1784" y="0" width="446" height="429" frameX="-28" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0007" x="1784" y="429" width="446" height="429" frameX="-28" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0008" x="1784" y="859" width="446" height="429" frameX="-28" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0009" x="1784" y="1288" width="446" height="429" frameX="-28" frameY="-54" frameWidth="500" frameHeight="500" />
+<SubTexture name="gef kiss0010" x="0" y="1746" width="446" height="429" frameX="-28" frameY="-54" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

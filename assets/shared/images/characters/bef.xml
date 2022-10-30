@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bef.png"><SubTexture name="bef idle dance0000" x="1144" y="1725" width="299" height="279" frameX="-90" frameY="-200" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0001" x="1443" y="1725" width="295" height="279" frameX="-93" frameY="-201" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0002" x="292" y="1725" width="293" height="285" frameX="-96" frameY="-193" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0003" x="0" y="1725" width="292" height="287" frameX="-97" frameY="-190" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0004" x="1885" y="0" width="293" height="291" frameX="-97" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0005" x="1885" y="0" width="293" height="291" frameX="-97" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef idle dance0006" x="1885" y="0" width="293" height="291" frameX="-97" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT0000" x="1885" y="872" width="275" height="288" frameX="-74" frameY="-192" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT0001" x="585" y="1725" width="276" height="285" frameX="-73" frameY="-194" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT0002" x="585" y="1725" width="276" height="285" frameX="-73" frameY="-194" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT0003" x="585" y="1725" width="276" height="285" frameX="-73" frameY="-194" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT0000" x="1885" y="582" width="290" height="290" frameX="-133" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT0001" x="1075" y="1427" width="286" height="292" frameX="-133" frameY="-186" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT0002" x="1075" y="1427" width="286" height="292" frameX="-133" frameY="-186" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT0003" x="1075" y="1427" width="286" height="292" frameX="-133" frameY="-186" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP0000" x="554" y="500" width="259" height="314" frameX="-131" frameY="-166" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP0001" x="1088" y="0" width="260" height="309" frameX="-130" frameY="-171" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP0002" x="1088" y="0" width="260" height="309" frameX="-130" frameY="-171" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP0003" x="1088" y="0" width="260" height="309" frameX="-130" frameY="-171" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN0000" x="2178" y="254" width="267" height="250" frameX="-112" frameY="-230" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN0001" x="2178" y="0" width="267" height="254" frameX="-114" frameY="-226" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN0002" x="2178" y="0" width="267" height="254" frameX="-114" frameY="-226" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN0003" x="2178" y="0" width="267" height="254" frameX="-114" frameY="-226" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef HEY0000" x="1885" y="291" width="289" height="290" frameX="-99" frameY="-190" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef HEY0001" x="1885" y="291" width="289" height="290" frameX="-99" frameY="-190" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef HEY0002" x="1885" y="1160" width="285" height="288" frameX="-100" frameY="-190" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef HEY0003" x="1885" y="1160" width="285" height="288" frameX="-100" frameY="-190" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef HEY0004" x="1885" y="1160" width="285" height="288" frameX="-100" frameY="-190" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT MISS0000" x="1885" y="872" width="275" height="288" frameX="-74" frameY="-192" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT MISS0001" x="862" y="1725" width="282" height="285" frameX="-69" frameY="-193" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT MISS0002" x="1361" y="1427" width="276" height="292" frameX="-73" frameY="-187" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE LEFT MISS0003" x="1361" y="1427" width="276" height="292" frameX="-73" frameY="-187" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT MISS0000" x="1885" y="582" width="290" height="290" frameX="-133" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT MISS0001" x="0" y="820" width="282" height="308" frameX="-134" frameY="-170" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT MISS0002" x="282" y="820" width="286" height="305" frameX="-133" frameY="-173" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE RIGHT MISS0003" x="282" y="820" width="286" height="305" frameX="-133" frameY="-173" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP MISS0000" x="554" y="500" width="259" height="314" frameX="-131" frameY="-166" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP MISS0001" x="297" y="500" width="257" height="316" frameX="-131" frameY="-165" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP MISS0002" x="814" y="500" width="260" height="310" frameX="-130" frameY="-169" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE UP MISS0003" x="814" y="500" width="260" height="310" frameX="-130" frameY="-169" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN MISS0000" x="2178" y="254" width="267" height="250" frameX="-112" frameY="-230" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN MISS0001" x="1738" y="1725" width="273" height="267" frameX="-111" frameY="-213" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN MISS0002" x="1885" y="1448" width="267" height="269" frameX="-114" frameY="-211" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef NOTE DOWN MISS0003" x="1885" y="1448" width="267" height="269" frameX="-114" frameY="-211" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0000" x="1885" y="0" width="293" height="291" frameX="-97" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0001" x="500" y="0" width="292" height="321" frameX="-98" frameY="-166" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0002" x="792" y="0" width="296" height="321" frameX="-98" frameY="-165" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0003" x="0" y="500" width="297" height="320" frameX="-97" frameY="-165" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0004" x="568" y="820" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0005" x="568" y="820" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0006" x="568" y="820" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0007" x="568" y="820" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0008" x="836" y="820" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0009" x="1349" y="0" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0010" x="1349" y="298" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0011" x="1349" y="298" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies0012" x="1349" y="298" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop0000" x="1349" y="596" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop0001" x="1349" y="596" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop0002" x="0" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop0003" x="268" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop0004" x="536" y="1129" width="269" height="298" frameX="-125" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop0005" x="1349" y="298" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop0006" x="1349" y="298" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop0007" x="1349" y="298" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop0008" x="1349" y="298" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop0009" x="1349" y="298" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed0000" x="1088" y="309" width="259" height="306" frameX="-128" frameY="-182" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed0001" x="804" y="1427" width="271" height="293" frameX="-125" frameY="-192" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed0002" x="805" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed0003" x="1073" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed0004" x="805" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed0005" x="1073" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed0006" x="805" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed0007" x="1073" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed0008" x="1073" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0000" x="1885" y="0" width="293" height="291" frameX="-97" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0001" x="500" y="0" width="292" height="321" frameX="-98" frameY="-166" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0002" x="0" y="2012" width="273" height="233" frameX="-108" frameY="-163" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0003" x="2178" y="505" width="142" height="152" frameX="-207" frameY="-199" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0004" x="2320" y="505" width="70" height="75" frameX="-233" frameY="-262" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0005" x="2390" y="505" width="33" height="28" frameX="-252" frameY="-273" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0006" x="2423" y="505" width="14" height="14" frameX="-267" frameY="-290" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0007" x="0" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0008" x="0" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0009" x="0" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies sled0010" x="0" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0000" x="2320" y="580" width="124" height="55" frameX="-206" frameY="-211" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0001" x="2290" y="712" width="108" height="47" frameX="-213" frameY="-215" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0002" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0003" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0004" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0005" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0006" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0007" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0008" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0009" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0010" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0011" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0012" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0013" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0014" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0015" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0016" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0017" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0018" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0019" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop sled0020" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed sled0000" x="2178" y="657" width="124" height="55" frameX="-206" frameY="-211" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed sled0001" x="2290" y="712" width="108" height="47" frameX="-213" frameY="-215" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed sled0002" x="2178" y="712" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed sled0003" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed sled0004" x="2178" y="712" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed sled0005" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed sled0006" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed sled0007" x="2302" y="657" width="111" height="49" frameX="-212" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies static0000" x="1885" y="0" width="293" height="291" frameX="-97" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies static0001" x="500" y="0" width="292" height="321" frameX="-98" frameY="-166" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies static0002" x="792" y="0" width="296" height="321" frameX="-98" frameY="-165" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies static0003" x="568" y="820" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies static0004" x="0" y="500" width="297" height="320" frameX="-97" frameY="-165" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies static0005" x="568" y="820" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies static0006" x="568" y="820" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dies static0007" x="568" y="820" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop static0000" x="1341" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop static0001" x="1617" y="0" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop static0002" x="1341" y="1129" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead loop static0003" x="1617" y="0" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed static0000" x="1617" y="298" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed static0001" x="1617" y="596" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed static0002" x="1617" y="894" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed static0003" x="0" y="1427" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed static0004" x="268" y="1427" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed static0005" x="536" y="1427" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+<SubTexture name="bef dead confirmed static0006" x="536" y="1427" width="268" height="298" frameX="-126" frameY="-188" frameWidth="500" frameHeight="500" />
+</TextureAtlas>
