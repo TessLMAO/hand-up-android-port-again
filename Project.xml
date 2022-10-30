@@ -187,6 +187,9 @@
 	<haxedef name="HXCPP_CHECK_POINTER" if="release" />
 	<haxedef name="HXCPP_STACK_LINE" if="release" />
 
+	<config:android gradle-version="7.5.1" />
+        <config:android gradle-plugin="7.3.1" />
+	
 	<!-- Android stuff: thanks Yoshi Engine -->
 	<android permission="android.permission.ACCESS_NETWORK_STATE"/>
 	<android permission="android.permission.INTERNET"/>
